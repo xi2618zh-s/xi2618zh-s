@@ -21,10 +21,10 @@ A graph-enhanced, location-aware POI recommendation system covering candidate re
 
 **Tech:** PyTorch · LightGCN · BPR · GBDT · FAISS · Recommender Systems
 
-### Spatio-temporal Heterogeneous Graph Neural Network(STHGNN)
-A heterogeneous spatiotemporal graph learning framework for regional hospitalisation forecasting using individual-, household-, and area-level information.
+### [Privacy-Safe Spatiotemporal Heterogeneous GNN](https://github.com/xi2618zh-s/sthgnn-disease-surveillance)
+A synthetic reference implementation of the thesis architecture. Restricted register data, real study outputs, and the full private pipeline are intentionally withheld.
 
-**Tech:** PyTorch Geometric · HGT · GAT · Temporal Modeling · Graph Learning
+**Tech:** PyTorch Geometric · HGT · GAT · Temporal Modeling · Synthetic Data
 
 ## 🛠 Tech Stack
 
