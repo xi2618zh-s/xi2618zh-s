@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Xiaoyu Zhang 👋
 
-<!--
-**xi2618zh-s/xi2618zh-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc in GIS & Remote Sensing at Lund University, focusing on machine learning, graph-based modeling, recommender systems, and LLM-powered applications.
 
-Here are some ideas to get you started:
+## 🔍 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Graph Machine Learning
+- Recommender & Retrieval Systems
+- LLM / RAG / Agent Applications
+- Spatiotemporal AI
+
+## 🧩 Featured Projects
+
+### GeoAI OpenStreetMap(OSM) RAG Agent
+A domain-specific geospatial AI agent combining hybrid retrieval, grounded LLM decision-making, and deterministic OpenStreetMap tool execution.
+
+**Tech:** Python · FAISS · BM25 · Sentence Transformers · Qwen · Flask · OpenStreetMap
+
+### Spatial Graph Recommendation
+A graph-enhanced, location-aware POI recommendation system covering candidate retrieval, ranking, evaluation, and serving.
+
+**Tech:** PyTorch · LightGCN · BPR · GBDT · FAISS · Recommender Systems
+
+### Spatio-temporal Heterogeneous Graph Neural Network(STHGNN)
+A heterogeneous spatiotemporal graph learning framework for regional hospitalisation forecasting using individual-, household-, and area-level information.
+
+**Tech:** PyTorch Geometric · HGT · GAT · Temporal Modeling · Graph Learning
+
+## 🛠 Tech Stack
+
+**Languages:** Python · C++ · C · Java
+
+**Machine Learning:** PyTorch · PyTorch Geometric · scikit-learn · TensorFlow
+
+**Retrieval & Recommendation:** FAISS · BM25 · LightGCN · Ranking
+
+**LLM Applications:** RAG · Sentence Transformers · Local LLMs · Structured Output · Agent
+
+**Geospatial:** OpenStreetMap · GeoJSON · GIS · Spatial Data Processing · ArcGIS · ENVI
+
+## 📫 Contact
+
+- Email: xiaoyu_zhang_2026@163.com
