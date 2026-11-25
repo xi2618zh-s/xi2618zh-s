@@ -11,10 +11,9 @@ MSc in GIS & Remote Sensing at Lund University, focusing on machine learning, gr
 
 ## 🧩 Featured Projects
 
-### [GeoAI OpenStreetMap (OSM) RAG Agent](https://github.com/xi2618zh-s/geoai-osm-rag-agent)
-A domain-specific geospatial AI agent combining hybrid retrieval, grounded LLM decision-making, and deterministic OpenStreetMap tool execution. Extended with allow-listed GIS analysis tools, Swedish population and transit (GTFS) data, constrained planning with validation and bounded replanning, and a versioned benchmark with a sealed private split.
+### [GeoAI](https://github.com/xi2618zh-s/geoai-osm-rag-agent) · [View saved analysis](https://xi2618zh-s.github.io/geoai-osm-rag-agent/)
 
-**Tech:** Python · FAISS · BM25 · Sentence Transformers · Qwen · Shapely · pyproj · GTFS · Flask · OpenStreetMap
+Find OpenStreetMap places and compare local services with population data. The Lund school example identifies eleven grid cells with 178 reported children beyond a one-kilometre straight-line threshold. Inspect the map, calculation steps and downloads, or [run the included data locally](https://github.com/xi2618zh-s/geoai-osm-rag-agent/blob/main/docs/LOCAL_DEMO.md) with different distance and age-band settings.
 
 ### [Spatial Graph Recommendation](https://github.com/xi2618zh-s/spatial-graph-recommendation)
 A graph-enhanced, location-aware POI recommendation system covering candidate retrieval, ranking, evaluation, and serving.
