@@ -1,6 +1,6 @@
 # Hi, I'm Xiaoyu Zhang 👋
 
-MSc in GIS & Remote Sensing at Lund University, focusing on machine learning, graph-based modeling, recommender systems, and LLM-powered applications.
+BSc in GIS at Hohai University, Nanjing, China. MSc in GIS & Remote Sensing at Lund University, Lund, Sweden. Focusing on machine learning, graph-based modeling, recommender systems, and LLM-powered applications.
 
 ## 🔍 Interests
 
